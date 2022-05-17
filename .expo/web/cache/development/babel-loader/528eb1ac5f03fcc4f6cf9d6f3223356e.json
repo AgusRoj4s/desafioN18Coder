@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as COLORS } from \"./Colors\";","map":{"version":3,"sources":["C:/Users/Agus Rojas/Desktop/New folder/constants/index.js"],"names":["default","COLORS"],"mappings":"AAAA,SAASA,OAAO,IAAIC,MAApB","sourcesContent":["export { default as COLORS } from './Colors'"]},"metadata":{},"sourceType":"module"}
